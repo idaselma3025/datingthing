@@ -1,11 +1,29 @@
 var friendsArray =[
   {
     "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://www.gettyimages.com/gi-resources/images/Embed/new/embed2.jpg",
     "scores":[
-        5,
-        2,
-        4,
+        "5",
+        "2",
+        "4",
+      ]
+  },
+  {
+    "name":"Beth",
+    "photo":"https://www.gettyimages.com/gi-resources/images/Embed/new/embed2.jpg",
+    "scores":[
+        "1",
+        "3",
+        "4",
+      ]
+  },
+  {
+    "name":"Tony",
+    "photo":"https://www.gettyimages.com/gi-resources/images/Embed/new/embed2.jpg",
+    "scores":[
+        "5",
+        "1",
+        "4",
       ]
   }
 ];
